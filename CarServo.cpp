@@ -1,5 +1,5 @@
 /*
- * Library for moving the car through L298n board
+ * Library for moving the car by L298n board
  */
 
 #include "CarServo.h"

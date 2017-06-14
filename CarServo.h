@@ -1,5 +1,5 @@
 /*
- * Library for moving the car through L298n board
+ * Library for moving the car by L298n board
  *
  * PINS on the board
  * EN A : enable motor A (right)
@@ -9,7 +9,7 @@
  * IN 3 : foreward :: pinLF
  * IN 4 : backward :: pinLB
  *
- * Tipps: set EN-pins to H and regulate speed with PWM (analogWrite) on the digitalPins
+ * Tips : set EN-pins to H and regulate speed with PWM (analogWrite) on the digitalPins
  */
 
 #ifndef CarServo_h

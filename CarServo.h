@@ -1,5 +1,5 @@
 /*
- * Library for moving the car by L298n board
+ * Library for moving the car with a L298n board
  *
  * PINS on the board
  * EN A : enable motor A (right)
